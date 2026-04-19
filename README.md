@@ -28,6 +28,7 @@ Custom `.github/copilot-instructions.md` files that configure Copilot behavior f
 - **[Rust](./instructions/rust.md)** — Idiomatic Rust, clippy, cargo conventions
 - **[Go](./instructions/go.md)** — Effective Go patterns, table-driven tests
 - **[Terraform](./instructions/terraform.md)** — Module structure, naming conventions, variable documentation
+- **[Docker](./instructions/docker.md)** — Multi-stage builds, minimal base images, security best practices *(personal addition)*
 
 ## Prompt Libraries
 
@@ -74,6 +75,4 @@ npx all-contributors-cli add <username> <contribution-type>
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+[![CC0](ht
