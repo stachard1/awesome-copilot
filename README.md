@@ -29,6 +29,7 @@ Custom `.github/copilot-instructions.md` files that configure Copilot behavior f
 - **[Go](./instructions/go.md)** — Effective Go patterns, table-driven tests
 - **[Terraform](./instructions/terraform.md)** — Module structure, naming conventions, variable documentation
 - **[Docker](./instructions/docker.md)** — Multi-stage builds, minimal base images, security best practices *(personal addition)*
+- **[Bash/Shell](./instructions/bash.md)** — shellcheck compliance, error handling with `set -euo pipefail` *(personal addition)*
 
 ## Prompt Libraries
 
@@ -66,13 +67,3 @@ Browse the [Plugin Marketplace](.github/plugin/marketplace.json) for community-b
 ## Contributing
 
 Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) and follow the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-To add yourself as a contributor:
-
-```bash
-npx all-contributors-cli add <username> <contribution-type>
-```
-
-## License
-
-[![CC0](ht
