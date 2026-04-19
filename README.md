@@ -27,6 +27,7 @@ Custom `.github/copilot-instructions.md` files that configure Copilot behavior f
 - **[TypeScript/Node](./instructions/typescript.md)** — ESM, strict mode, Vitest conventions
 - **[Rust](./instructions/rust.md)** — Idiomatic Rust, clippy, cargo conventions
 - **[Go](./instructions/go.md)** — Effective Go patterns, table-driven tests
+- **[Terraform](./instructions/terraform.md)** — Module structure, naming conventions, variable documentation
 
 ## Prompt Libraries
 
@@ -75,4 +76,4 @@ npx all-contributors-cli add <username> <contribution-type>
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
