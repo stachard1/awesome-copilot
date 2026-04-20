@@ -31,6 +31,7 @@ Custom `.github/copilot-instructions.md` files that configure Copilot behavior f
 - **[Docker](./instructions/docker.md)** — Multi-stage builds, minimal base images, security best practices *(personal addition)*
 - **[Bash/Shell](./instructions/bash.md)** — shellcheck compliance, error handling with `set -euo pipefail` *(personal addition)*
 - **[Kubernetes](./instructions/kubernetes.md)** — Manifest structure, resource limits, health probes *(personal addition)*
+- **[React](./instructions/react.md)** — Functional components, hooks patterns, accessibility best practices *(personal addition)*
 
 ## Prompt Libraries
 
@@ -60,11 +61,4 @@ Browse the [Plugin Marketplace](.github/plugin/marketplace.json) for community-b
 ## Learning Resources
 
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)
-- [Prompt Engineering for Copilot](https://gh.io/copilot-prompts)
-- [Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
-
----
-
-## Contributing
-
-Contri
+- [Prompt Engineering for Copilot](https://gh.io
